@@ -1,0 +1,12 @@
+<application>
+    <name>MyApp</name>
+    <version>1.0.0</version>
+    <settings>
+        <setting key="max_connections">100</setting>
+        <setting key="timeout">30</setting>
+    </settings>
+    <features>
+        <feature>authentication</feature>
+        <feature>logging</feature>
+    </features>
+</application>

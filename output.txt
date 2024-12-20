@@ -1,0 +1,8 @@
+% Конфигурация для MyApp
+const appName = 'MyApp'
+const version = '1.0.0'
+settings = $[
+    max_connections: 100,
+    timeout: 30
+]
+features = << authentication, logging >>
